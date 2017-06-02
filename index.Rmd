@@ -1,0 +1,24 @@
+---
+title: "Apprendre à contribuer sans contribuer"
+subtitle: "Exploration de la base de données OSM avec Overpass-Turbo"
+author: "Samuel Goëta, Datactivist"
+date: "State of the Map, Avignon, 02/06/2017"
+output:
+  xaringan::moon_reader:
+    css: [default, xaringan.css]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+class: center, middle
+
+Retrouvez les matériaux sur https://github.com/datactivist/atelier/
+
+Ces slides en ligne : http://frama.link/umanis/
+
+<img src="./img/Logo_DATACTIVIST_TW.png" height="100px" />
+
+---
