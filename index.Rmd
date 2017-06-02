@@ -149,7 +149,7 @@ Pour une présentation plus large sur les données crowdsourcées : https://gith
 .pull-right[
 1. Highway=motorway 
 
-2. highway=cycleway 
+2. highway=cycleway ou cycleway=*
 
 3. Tourism=museum
 
@@ -177,3 +177,20 @@ Pour une présentation plus large sur les données crowdsourcées : https://gith
 * Les lignes électriques en corse
 
 * Les « potelets » à Marseille
+---
+#On en fait quoi maintenant ? 
+.reduite[![](img/umap.png)]
+.footnote[http://http://umap.openstreetmap.fr]
+---
+# Comment collecter des données sur le terrain ?
+.reduite[![](img/entree.png)]
+---
+# Comment soumettre des données ?
+.reduite[![](img/soum.png)]
+---
+class:inverse, middle, center
+# Merci
+
+Me contacter : samuel@datactivi.st
+
+Suggestions : https://github.com/datactivist/atelier-osm/issues
